@@ -307,7 +307,7 @@
 				</data>
 				<key>framebuffer-con0-pipe</key>
 				<data>
-				CAAAAA==
+				EgAAAA==
 				</data>
 				<key>framebuffer-con0-type</key>
 				<data>
@@ -331,7 +331,7 @@
 				</data>
 				<key>framebuffer-con1-pipe</key>
 				<data>
-				CQAAAA==
+				EgAAAA==
 				</data>
 				<key>framebuffer-con1-type</key>
 				<data>
@@ -355,7 +355,7 @@
 				</data>
 				<key>framebuffer-con2-pipe</key>
 				<data>
-				CgAAAA==
+				EgAAAA==
 				</data>
 				<key>framebuffer-con2-type</key>
 				<data>
@@ -387,7 +387,7 @@
 				</data>
 				<key>framebuffer-fbmem</key>
 				<data>
-				AABQAQ==
+				AACQAA==
 				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
@@ -395,11 +395,11 @@
 				</data>
 				<key>framebuffer-stolenmem</key>
 				<data>
-				AAAgAg==
+				AAAwAQ==
 				</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>
-				AAAAYA==
+				AAAAgA==
 				</data>
 				<key>model</key>
 				<string>Intel Skylake GT2 [HD Graphics 520]</string>
@@ -722,13 +722,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>USBInjectAll.kext</string>
+				<string>USBPorts.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBInjecAll</string>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
