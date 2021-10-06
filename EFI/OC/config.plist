@@ -16,14 +16,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-XCPM.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-XCPM.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-I2C.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -1701,7 +1693,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C17735401GUHMHKFB</string>
+			<string>C027055014NH9W81M</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1715,9 +1707,9 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,1</string>
+			<string>MacBookPro13,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C17V90M7GVC1</string>
+			<string>C02T6VZMGYFH</string>
 			<key>SystemUUID</key>
 			<string>F88FB668-2DC2-42A3-ADE4-CAFCF489EAC8</string>
 		</dict>
