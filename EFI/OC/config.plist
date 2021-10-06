@@ -24,14 +24,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GPIO.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>GPIO.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-I2C.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -1709,7 +1701,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02734701QXHWVPFB</string>
+			<string>C17735401GUHMHKFB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1723,9 +1715,9 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8QZHHV29</string>
+			<string>C17V90M7GVC1</string>
 			<key>SystemUUID</key>
 			<string>F88FB668-2DC2-42A3-ADE4-CAFCF489EAC8</string>
 		</dict>
